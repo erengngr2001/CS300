@@ -1,2 +1,2 @@
 # cs300
-Sabancı University CS300 Course Projects
+Sabancı University CS300 (DATA STRUCTURES) Course Projects
