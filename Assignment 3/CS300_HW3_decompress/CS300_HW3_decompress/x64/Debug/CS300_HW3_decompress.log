@@ -1,0 +1,7 @@
+﻿  29465-ErenGungor.cpp
+C:\Users\ereng\source\repos\CS300_HW3_decompress\CS300_HW3_decompress\HashTable.h(176,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ereng\source\repos\CS300_HW3_decompress\CS300_HW3_decompress\HashTable.h(175): message : while compiling class template member function 'int HashTable<HashedObj>::findPos(const std::string &) const'
+C:\Users\ereng\source\repos\CS300_HW3_decompress\CS300_HW3_decompress\HashTable.h(113): message : see reference to function template instantiation 'int HashTable<HashedObj>::findPos(const std::string &) const' being compiled
+C:\Users\ereng\source\repos\CS300_HW3_decompress\CS300_HW3_decompress\29465-ErenGungor.cpp(17): message : see reference to class template instantiation 'HashTable<HashedObj>' being compiled
+C:\Users\ereng\source\repos\CS300_HW3_decompress\CS300_HW3_decompress\HashTable.h(182,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CS300_HW3_decompress.vcxproj -> C:\Users\ereng\source\repos\CS300_HW3_decompress\x64\Debug\CS300_HW3_decompress.exe

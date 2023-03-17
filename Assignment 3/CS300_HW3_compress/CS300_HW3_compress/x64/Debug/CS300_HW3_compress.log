@@ -1,0 +1,10 @@
+﻿  29465-ErenGungor.cpp
+C:\Users\ereng\source\repos\CS300_HW3_compress\CS300_HW3_compress\HashTable.h(108,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ereng\source\repos\CS300_HW3_compress\CS300_HW3_compress\HashTable.h(107): message : while compiling class template member function 'int HashTable<HashedObj>::findIdx(const std::string &) const'
+C:\Users\ereng\source\repos\CS300_HW3_compress\CS300_HW3_compress\29465-ErenGungor.cpp(26): message : see reference to function template instantiation 'int HashTable<HashedObj>::findIdx(const std::string &) const' being compiled
+C:\Users\ereng\source\repos\CS300_HW3_compress\CS300_HW3_compress\29465-ErenGungor.cpp(14): message : see reference to class template instantiation 'HashTable<HashedObj>' being compiled
+C:\Users\ereng\source\repos\CS300_HW3_compress\CS300_HW3_compress\HashTable.h(151,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ereng\source\repos\CS300_HW3_compress\CS300_HW3_compress\HashTable.h(150): message : while compiling class template member function 'int HashTable<HashedObj>::findPos(const std::string &) const'
+C:\Users\ereng\source\repos\CS300_HW3_compress\CS300_HW3_compress\HashTable.h(88): message : see reference to function template instantiation 'int HashTable<HashedObj>::findPos(const std::string &) const' being compiled
+C:\Users\ereng\source\repos\CS300_HW3_compress\CS300_HW3_compress\HashTable.h(157,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CS300_HW3_compress.vcxproj -> C:\Users\ereng\source\repos\CS300_HW3_compress\x64\Debug\CS300_HW3_compress.exe
